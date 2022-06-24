@@ -1,5 +1,6 @@
 # FOSS 기말 프로젝트: fwbackups 번역
-==========================================
+========================================== 
+
 fwbackups transifex 주소: https://www.transifex.com/Magic/fwbackups/language/ko/ 
 
 1. fwbackups란? 
