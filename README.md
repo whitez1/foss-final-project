@@ -85,8 +85,8 @@ Magic team에 합류를 하여 한국어 번역자로 제 이름인 '장희지'�
   
 ## 참고 문헌
 -------------
-위키 백과, 백업, (검색일: 2022.6.25), <https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%97%85>.  
-혼자공부하기:티스토리, 증분 백업, (검색일: 2022.6.25), <https://noil0816.tistory.com/109>.   
-티스토리, 나이스 값, (검색일: 2022.6.25), <https://jhnyang.tistory.com/394https://jhnyang.tistory.com/394>.   
-시스템 트레이, <http://www.terms.co.kr/systemtray.htm>.
+위키 백과, 백업, (검색일: 2022.6.24), <https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%97%85>.   
+혼자공부하기:티스토리, 증분 백업, (검색일: 2022.6.24), <https://noil0816.tistory.com/109>.    
+티스토리, 나이스 값, (검색일: 2022.6.24), <https://jhnyang.tistory.com/394https://jhnyang.tistory.com/394>.     
+시스템 트레이, (검색일: 2022.6.24), <http://www.terms.co.kr/systemtray.htm>.  
 
