@@ -16,14 +16,14 @@ fwbackups github 주소: https://github.com/stewartadam/fwbackups
 transifex에서 번역 프로젝트 탐색 중 유용하게 사용할 수 있는 Open Source Software 도구인 것 같은데 한국어로 번역한 사람이 아무도 없어 이 프로젝트의 한글 번역에 기여하고자 하였습니다. 번역할 문자열은 523개 였으며, 변역은 transifex가 제공하는 에디터에서 진행하였습니다.
 
 ![image](/uploads/c1e09678724f3fcd1a562896345bd07e/image.png)   
-Magic team의 한국어 번역자로 제 이름이 추가되었습니다. 
+Magic team의 한국어 번역자로 제 이름 '장희지'가 추가되었습니다. 
 
 ## 번역 규칙
 ------------
 1. 가능한 존댓말을 사용하였습니다.
-![image](/uploads/97fa515fd21fac6b2c65d1078e883bfa/image.png)  
+![image](/uploads/97fa515fd21fac6b2c65d1078e883bfa/image.png)    
 2. please가 붙어 있는 명령어는 모두 해요체를 사용하였습니다.
-![image](/uploads/1f0db82f51c894b8a30b3a8149c58cf2/image.png)  
+![image](/uploads/fdb14e3f7402714a67e16515ed2f136e/image.png)  
 3. ...과 같이 말 줄임표로 끝나고, ing 형식을 쓰는 경우 진행 상황으로 해석하였습니다.
 ![image](/uploads/08cf2ca940eb2b110751587887606030/image.png)  
 4. 고유 명사는 영어 그대로 또는 한국어 발음 대로 변역하였습니다.
@@ -33,13 +33,13 @@ Magic team의 한국어 번역자로 제 이름이 추가되었습니다.
 ![image](/uploads/70c0102b44dcac0f96a3cbf46fcf9879/image.png)  
 ![image](/uploads/f535f1f2410ec8f842520b5426f95ae9/image.png)  
 6. 영어는 수의 개념을 중요히 여기기 때문에 명사의 단복수를 정확히 구분합니다. 하지만, 한국어는 그렇지 않은 부분이 많아 거의 단수로 해석하였습니다.  
-![image](/uploads/8ed5b1a9babd1010cd6ad23c33dbd9ad/image.png)
+![image](/uploads/8ed5b1a9babd1010cd6ad23c33dbd9ad/image.png)  
 위 사진은 괄호를 넣지 않아서 주의가 떳는데 시간(들), 분(들) 이렇게 복수로 표현하기에는 어색한 감이 있어서 단수로 표현했습니다.
 ## 번역 용어 정리
 ----------------- 
-*세트(set)
+* 세트(set)  
 파일들의 집합체
-* 구성 파일(Configuration File)
+* 구성 파일(Configuration File)  
 웹 서버나 웹 응용 프로그램에 대한 구성정보가 들어 있는 .config 확장자를 가진 XML파일
 
 
