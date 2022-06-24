@@ -17,7 +17,7 @@ fwbackups github 주소: https://github.com/stewartadam/fwbackups  <br/><br/>
 transifex에서 번역 프로젝트 탐색 중 유용하게 사용할 수 있는 Open Source Software 도구인 것 같은데 한국어로 번역한 사람이 아무도 없어 이 프로젝트의 한글 번역에 기여하고자 하였습니다. 번역할 문자열은 523개 였으며, 변역은 transifex가 제공하는 에디터에서 진행하였습니다.
 
 ![image](/uploads/c1e09678724f3fcd1a562896345bd07e/image.png)   
-Magic team의 한국어 번역자로 제 이름 '장희지'가 추가되었습니다. <br/><br/>
+Magic team에 합류를 하여 한국어 번역자로 제 이름인 '장희지'가 추가되어 있습니다. <br/><br/>
   
 
 ## 번역 규칙
